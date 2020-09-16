@@ -1,0 +1,72 @@
+#topbar{
+    width: 1100px;
+    margin:0 auto;
+    background-color: white;
+    height: 40px;
+}
+
+body{
+    margin:0;
+    padding:0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#logo{
+    margin-top:8px;
+    width: 84px;
+    height: 24px;
+    float: left;
+    margin-right: 8px;
+}
+
+.topbar-section{
+    float: left;
+    border-left:1px #999999 solid;
+    height: 100%;
+}
+
+#signin-image{
+    width: 25px;
+    margin: 7px 5px;
+    float: left;
+}
+
+#signin-text{
+    font-weight: bold;
+    font-size: 85%;
+    position: relative;
+    top:13px;
+    padding-right: 80px;
+}
+
+.topbar-menu{
+    font-weight: bold;
+    font-size: 85%;
+    padding: 13px 15px 0 15px;
+    height: 27px;
+}
+
+#more-arrow{
+    float: right;
+    margin-left: 40px;
+    margin-top:-2px;
+}
+
+#search-box{
+    background-color: #e4e4e4;
+    border:none;
+    font-weight: bold;
+    font-size: 14px;
+    width: 130px;
+    float: left;
+    margin: 5px 0px 5px 5px;
+    padding:5px;
+}
+
+#lupa{
+    height: 20px;
+    margin-top:8px;
+    position: relative;
+    left:-25px;
+   
+}
