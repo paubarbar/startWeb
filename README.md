@@ -1,3 +1,3 @@
-# Calendario con JS
+# Web BBC con HTML CSS
 
-Este es un proyecto usando HTML, CSS y JavaScript
+Este es un proyecto usando HTML y CSS
